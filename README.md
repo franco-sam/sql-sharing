@@ -1,2 +1,2 @@
-Running SQL queries from a Jupyter Notebook, using tables created in 
+Running SQL queries in a Jupyter Notebook, using tables created in 
 PostgreSQL.
